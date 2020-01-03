@@ -1,0 +1,19 @@
+{
+  "name": "clash_royale",
+  "version": "1.0.0",
+  "description": "Web app clan administration for clash royale",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHoxha19/clash_royale_admin.git"
+  },
+  "author": "Arton Hoxha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHoxha19/clash_royale_admin/issues"
+  },
+  "homepage": "https://github.com/AHoxha19/clash_royale_admin#readme"
+}
